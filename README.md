@@ -4,4 +4,4 @@
 
 [Descrição](#project-description)
 
-Desafio da Rocketseat. Responsividade está ok.
+Desafio da Rocketseat. Adicional responsivo.
